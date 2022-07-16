@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.whatsapp.com	TRUE	/	FALSE	1999999999	wa_lang_pref	en
+api.whatsapp.com	TRUE	/	FALSE	1999999999	wa_ul	deleted
+.whatsapp.com	TRUE	/	FALSE	1999999999	wa_ul	15c52860-26d9-4b37-8768-f596a7155dae
+
